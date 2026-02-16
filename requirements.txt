@@ -1,0 +1,10 @@
+django==3.0.5
+pymysql
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+xlwt
+Pillow
